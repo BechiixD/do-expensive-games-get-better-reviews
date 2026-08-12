@@ -27,8 +27,6 @@ Analisis de **125 millones de reviews de Steam** sobre **3816 juegos** que algun
 | Fuente | API publica de Steam (top sellers semanales, desde dic 2009) |
 | Features | msrp, semanas en top, ratio de reviews positivas, edad, bucket de precio |
 
-![Boxplot de la relacion precio vs reviews](img/bucket-reviews.png)
-![Afecta la fama en la relacion precio/reviews?](img/n_weeks-ratio.png)
 
 ## Stack
 Python - pandas - NumPy - SciPy - statsmodels - matplotlib - seaborn - Jupyter
